@@ -1,2 +1,2 @@
-# H-th-ng-qu-n-l-b-n-h-ng-cho-c-a-h-ng-th-c-ng
+# Hệ thống quản lý bán hàng cho cửa hàng thú cưng
 Bài tập lớn môn cơ sở dữ liệu (nhóm 2)
